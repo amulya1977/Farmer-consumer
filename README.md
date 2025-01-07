@@ -11,11 +11,11 @@ This project is a **Farmer-Consumer Website** designed to bridge the gap between
 - **Static Frontend**: The project avoids frameworks like React, using pure HTML, CSS, and JavaScript.
 
 ## File Structure
-index.html: Main landing consumer page of the website .
-dash.html: Farmer dashboard interface.
-farmers.html: Individual farmer profile page.
-inventory.html: Page for managing inventory.
-script.js: JavaScript for interactive features.
-style.css & styles.css: Stylesheets for the UI.
-server.js: Backend server logic (if applicable).
-uploads/: Directory for uploaded images
+- index.html: Main landing consumer page of the website .
+- dash.html: Farmer dashboard interface.
+- farmers.html: Individual farmer profile page.
+- inventory.html: Page for managing inventory.
+- script.js: JavaScript for interactive features.
+- style.css & styles.css: Stylesheets for the UI.
+- server.js: Backend server logic (if applicable).
+- uploads/: Directory for uploaded images
